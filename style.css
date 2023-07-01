@@ -58,6 +58,8 @@ nav > a{
     color: white;
     text-decoration: none;
     padding: 5px;
+    max-width: 300px;
+    font-size: 0.85em;
 }
 
 nav > a:hover{
